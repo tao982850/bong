@@ -9,8 +9,8 @@
   ],
   "sites": [
       {
-      "key": "OK",
-      "name": "OK点播源",
+      "key": "OK资源网",
+      "name": "OK资源网",
       "type": 0,
       "api": "http://api.okzyw.net/api.php/provide/vod/from/okm3u8/at/xml",
       "searchable": 1,
