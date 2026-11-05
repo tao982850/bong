@@ -2532,7 +2532,7 @@
       "type": 3,
       "url": "Web"
     },
-     
+    
   {
    "name": "Web聚合",
    "type": 3,
@@ -3985,41 +3985,6 @@
    "name": "YYNB解析",
    "type": 1,
    "url": "https://json.cfysoft.cc/api/?key=5249e5bb3cb34032040224799dae6d45&url="
-  },
-  {
-   "name": "华夏臻彩",
-   "type": 1,
-   "url": "https://xy.183933.xyz/xiayede.php?key=hy1966&url=",
-   "ext": {
-    "flag": [
-     "qq",
-     "腾讯",
-     "qiyi",
-     "爱奇艺",
-     "奇艺",
-     "youku",
-     "优酷",
-     "tucheng",
-     "sohu",
-     "搜狐",
-     "letv",
-     "乐视",
-     "mgtv",
-     "芒果",
-     "tnmb",
-     "seven",
-     "yzm",
-     "aliyun",
-     "RJuMao",
-     "bilibili",
-     "1905",
-     "xinvip",
-     "XAL",
-     "qiqi",
-     "XALS",
-     "YuMi-vip"
-    ]
-   }
   },
   {
    "name": "公益解析",
