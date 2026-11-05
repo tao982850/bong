@@ -38,6 +38,16 @@
         "国产动漫"
       ]
      },
+     {
+   "key": "奇迹资源",
+   "name": "影视 • 奇迹[直连]",
+   "type": 1,
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "api": "http://cmsyun2.qijiyun.vip/api.php/provide/vod/",
+   "group": "综合-采集站"
+  },
     {
       "key": "feifan",
       "name": "🍀非凡资源",
