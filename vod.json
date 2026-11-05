@@ -38,6 +38,34 @@
         "国产动漫"
       ]
      },
+       {
+   "key": "官源蓝光",
+   "name": "官源蓝光",
+   "api": "http://154.219.117.232:9981/jacloudapi.php/provide/vod/from/qq/?ac=list",
+   "type": 1,
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "playurl": "json:https://kx.zyzqcb.cc/api/?key=df8bfba9c7ce22ff751465ec8cb73623&url=",
+   "categories": [
+    "国产剧",
+    "港台剧",
+    "欧美剧",
+    "日韩剧",
+    "电影",
+    "动作",
+    "战争",
+    "喜剧",
+    "剧情",
+    "武侠",
+    "少儿",
+    "动漫",
+    "综艺",
+    "短剧",
+    "记录片"
+   ],
+   "group": "4K-采集站"
+  },
      {
    "key": "奇迹资源",
    "name": "影视 • 奇迹[直连]",
