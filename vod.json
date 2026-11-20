@@ -9,6 +9,15 @@
     }
   ],
   "sites": [
+        {
+            "key": "豆瓣",
+            "name": "豆瓣｜首页",
+            "type": 3,
+            "api": "csp_Douban",
+            "searchable": 0,
+		          "changeable": 1,
+            "ext": "./lib/douban.json"
+      },
       {
       "key": "okzyw",
       "name": "OK资源网",
